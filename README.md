@@ -12,7 +12,7 @@ europa (eurpa#3868)
 
 Q. Is Faithful going to be paid?
 
-A. We don't plan on making it paid or free. (private)
+A. We don't currently plan on making it paid or free. (private, may or may not change)
 
 ----
 
