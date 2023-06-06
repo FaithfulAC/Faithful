@@ -20,7 +20,7 @@ A. We don't currently plan on making it paid or free. (private, may or may not c
 
 Q. When is Faithful going to release?
 
-A. We are not yet sure when it's full release will be as it is still in development.
+A. We are not yet sure when its full release will be as it is still in development.
 
 ----
 
