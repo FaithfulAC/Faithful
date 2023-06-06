@@ -3,9 +3,7 @@
 Faithful is an Anti-Cheat for Roblox that uses combined logic and vanilla detection methods and is still currently in development.
 
 Faithful is developed and managed by
-
 kar (kar#0186) 
-
 europa (europa#3868)
 
 # Q & A:
