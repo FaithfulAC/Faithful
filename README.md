@@ -34,6 +34,14 @@ A. Yes there is (see link below), but, you must be whitelisted in order to join 
 
 4:
 
+Q. How can I get whitelisted?
+
+A. Message kar (kar#0186) or europa (europa#3868) on discord and we'll decide whether or not you should be whitelisted.
+
+----
+
+5:
+
 Q. Does Faithful have server security?
 
 A. Yes, it has both client security and server security.
