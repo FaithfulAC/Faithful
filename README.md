@@ -29,7 +29,6 @@ A. We are not yet sure when it's full release will be as it is still in developm
 Q. How do I test Faithful? / Is there a testing place for Faithful where I can experiment and test my scripts?
 
 A. Yes there is (see link below), but, you will be to be whitelisted in order to join the game otherwise you will be kicked.
-Testing place: https://www.roblox.com/games/13409199853/Faithful-Anti-Cheat
 
 ----
 
@@ -42,3 +41,5 @@ A. Yes, it has both client security and server security.
 ----
 
 If you managed to bypass our anti-cheat or find a flaw then please send us a dm on our discord (read above for our discord)
+
+Testing place: https://www.roblox.com/games/13409199853/Faithful-Anti-Cheat
