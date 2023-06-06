@@ -10,6 +10,7 @@ europa (eurpa#3868)
 
 1:
 Q. Is Faithful going to be paid?
+
 A. We don't plan on making it paid or free. (private)
 
 2:
@@ -18,11 +19,13 @@ A. We are not yet sure when it's full release will be as it is still in developm
 
 3:
 Q. How do I test Faithful? / Is there a testing place for Faithful where I can experiment and test my scripts?
+
 A. Yes there is (see link below), but, you will be to be whitelisted in order to join the game otherwise you will be kicked.
 Testing place: https://www.roblox.com/games/13409199853/Faithful-Anti-Cheat
 
 4:
 Q. Does Faithful have server security?
+
 A. Yes, it has both client security and server security.
 
 ----
