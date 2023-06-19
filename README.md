@@ -36,7 +36,7 @@ A. Yes there is (see link below), but, you must be whitelisted in order to join 
 
 Q. How can I get whitelisted?
 
-A. Message kar (kar#0186) or europa (europa#3868) on discord and we'll decide whether or not you should be whitelisted.
+A. Message kar (kar#0186) or europa (__europa) on discord and we'll decide whether or not you should be whitelisted.
 
 ----
 
