@@ -3,8 +3,8 @@
 Faithful is an Anti-Cheat for Roblox that uses combined logic and vanilla detection methods and is still currently in development.
 
 Faithful is developed and managed by
-kar (kar#0186) 
-europa (europa#3868)
+kar (kaxr) on discord
+europa (__europa) on discord
 
 # Q & A:
 
@@ -36,7 +36,7 @@ A. Yes there is (see link below), but, you must be whitelisted in order to join 
 
 Q. How can I get whitelisted?
 
-A. Message kar (kar#0186) or europa (__europa) on discord and we'll decide whether or not you should be whitelisted.
+A. Message kar (kaxr) or europa (__europa) on discord and we'll decide whether or not you should be whitelisted.
 
 ----
 
