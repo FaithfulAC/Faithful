@@ -10,17 +10,17 @@ europa (__europa) on discord
 
 1:
 
-Q. Is Faithful going to be paid?
+Q. When is Faithful going to release?
 
-A. We don't currently plan on making it paid or free. (private, may or may not change)
+A. We are not yet sure when its full release will be as it is still in development.
 
 ----
 
 2:
 
-Q. When is Faithful going to release?
+Q. Is Faithful going to be paid?
 
-A. We are not yet sure when its full release will be as it is still in development.
+A. We don't currently plan on making it paid or free. (private, may or may not change)
 
 ----
 
