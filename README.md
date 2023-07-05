@@ -51,3 +51,13 @@ A. Yes, it has both client security and server security, but, the server anti-ch
 If you managed to bypass our anti-cheat or find a flaw then please send us a dm on our discord (read above for our discord)
 
 Testing place: https://www.roblox.com/games/13409199853/Faithful-Anti-Cheat
+
+----
+
+Contributors:
+
+Resident (! boles on discord)
+
+daily (daily3014 on discord)
+
+メ几メ (xoifail on discord)
