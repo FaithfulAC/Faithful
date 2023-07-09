@@ -56,8 +56,8 @@ Testing place: https://www.roblox.com/games/13409199853/Faithful-Anti-Cheat
 
 Contributors:
 
-boles (aka Resident or RxsidentAspect) (! boles on discord)
+boles (aka RxsidentAspect) (Aspect Systems Executive Director)
 
-daily (daily3014 on discord)
+daily (Valkyrie, Hades and Watchdog Anti-Cheat Owner)
 
-メ几メ (xoifail on discord)
+メ几メ (Anonymous Anti-Cheat Developer/Owner?, Valkyrie Anti-Cheat Developer)
