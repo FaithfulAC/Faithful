@@ -56,7 +56,7 @@ Testing place: https://www.roblox.com/games/13409199853/Faithful-Anti-Cheat
 
 Contributors:
 
-Resident (! boles on discord)
+boles (aka Resident or RxsidentAspect) (! boles on discord)
 
 daily (daily3014 on discord)
 
