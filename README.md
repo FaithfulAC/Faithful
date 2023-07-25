@@ -60,4 +60,4 @@ boles (aka RxsidentAspect) (Aspect Systems Executive Director)
 
 daily (Valkyrie, Hades and Watchdog Anti-Cheat Developer/Owner)
 
-メ几メ (Anonymous Anti-Exploit Developer, Valkyrie Anti-Cheat Developer/Owner)
+メ几メ (aka xnx or xoifail) (Anonymous Anti-Exploit Developer, Valkyrie Anti-Cheat Developer/Owner)
