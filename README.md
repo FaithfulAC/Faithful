@@ -44,7 +44,7 @@ A. Message kar (kaxr) or europa (__europa) on discord and we'll decide whether o
 
 Q. Does Faithful have server security?
 
-A. Yes, it has both client security and server security, but, the server anti-cheat is not enabled right now.
+A. Yes, it has both client security and server security, but, the server-side of Faithful is not enabled right now.
 
 ----
 
