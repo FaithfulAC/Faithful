@@ -61,3 +61,5 @@ boles (aka RxsidentAspect) (Founder / CEO @ Aspect Systems)
 daily (Valkyrie, Hades and Watchdog Anti-Cheat Owner)
 
 XNX (aka xoifail) (Anonymous & Valkyrie Anti-Cheat Developer)
+
+Thanks you to all of these wonderful people. Faithful wouldn't have been the same without them!
