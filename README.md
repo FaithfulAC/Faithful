@@ -58,6 +58,6 @@ Contributors:
 
 boles (aka RxsidentAspect) (Founder / CEO @ Aspect Systems)
 
-daily (Valkyrie, Hades and Watchdog Anti-Cheat Developer)
+daily (Valkyrie, Hades and Watchdog Anti-Cheat Owner)
 
 XNX (aka xoifail) (Anonymous & Valkyrie Anti-Cheat Developer)
