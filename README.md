@@ -55,6 +55,7 @@ Testing place: https://www.roblox.com/games/13409199853/Faithful-Anti-Cheat
 ----
 
 ⭐ Contributors:
+
 Thank you to all of these wonderful people. Faithful wouldn't have been the same without them!
 
 boles (aka RxsidentAspect) (Founder / CEO @ Aspect Systems)
