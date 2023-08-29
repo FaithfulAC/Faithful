@@ -54,7 +54,7 @@ Testing place: https://www.roblox.com/games/13409199853/Faithful-Anti-Cheat
 
 ----
 
-Contributors:
+⭐ Contributors:
 
 boles (aka RxsidentAspect) (Founder / CEO @ Aspect Systems)
 
