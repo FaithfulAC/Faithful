@@ -28,7 +28,7 @@ A. We don't currently plan on making it paid or free. (private, may or may not c
 
 Q. How do I test Faithful? / Is there a testing place for Faithful where I can experiment and test my scripts?
 
-A. Yes there is (see link below), but, you must be whitelisted in order to join the game otherwise you will be kicked.
+A. Yes there is (see link below), but you must be whitelisted in order to join the game otherwise you will be kicked.
 
 ----
 
