@@ -50,7 +50,7 @@ A. Yes there is (see link below), but you must be whitelisted in order to join t
 
 Q. How can I get whitelisted?
 
-A. Message kar (kaxr) or europa (__europa) on discord and we'll decide whether or not you should be whitelisted.
+A. Message the owners on Discord and we'll decide whether or not you should be whitelisted.
 
 ----
 
