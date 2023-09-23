@@ -58,7 +58,7 @@ A. Message the owners on Discord and we'll decide whether or not you should be w
 
 Q. Does Faithful have server security?
 
-A. Yes, it has both client security and server security, but, the server-side of Faithful is not enabled right now.
+A. Yes, it has both client security and server security, but, the server-side of Faithful is not enabled right now due to upcoming improvements.
 
 ----
 
