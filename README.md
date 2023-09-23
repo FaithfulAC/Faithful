@@ -74,3 +74,5 @@ Hades and Watchdog Anti-Cheat Owner
 XNX - (aka xoifail)
 ----
 Anonymous & Valkyrie Anti-Cheat Developer
+
+----
