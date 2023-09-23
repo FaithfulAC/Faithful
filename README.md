@@ -81,7 +81,7 @@ boles - (aka RxsidentAspect)
 
 daily
 ----
--> Hades and Watchdog Anti-Cheat Owner
+-> Valkyrie, Hades and Watchdog Anti-Cheat Owner
 
 ----
 
