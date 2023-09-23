@@ -60,15 +60,17 @@ Thank you to all of these wonderful people. Faithful wouldn't have been the same
 ----
 
 boles - (aka RxsidentAspect)
-
+----
 Founder / CEO @ Aspect Systems
+
 ----
 
 daily
-
+----
 Hades and Watchdog Anti-Cheat Owner
+
 ----
 
 XNX - (aka xoifail)
-
+----
 Anonymous & Valkyrie Anti-Cheat Developer
