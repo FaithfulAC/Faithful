@@ -12,6 +12,8 @@ In charge of the client-sided and server-sided anti-cheat.
 # <img src="https://cdn.discordapp.com/avatars/705491419774845030/62eeb4d9bc5bf39385f255772696c758.webp" align="center" height="80" style="border-radius: 50%;">  europa
 In charge of the client-sided anti-cheat and handshake.
 
+----
+
 # Q & A:
 
 1:
