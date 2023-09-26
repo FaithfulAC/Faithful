@@ -6,14 +6,14 @@ Faithful is an Anti-Cheat for Roblox that uses combined logic and vanilla detect
 ### Owners
 ----
 
-### <img src = "https://cdn.discordapp.com/avatars/942405612229259344/081a58a75a36326c174f3c7b10c6b55b.webp" align = "center" height= "80" style= "border-radius: 50%;">  kxr
+### <img src = "https://cdn.discordapp.com/avatars/942405612229259344/081a58a75a36326c174f3c7b10c6b55b.webp?size=4096" align = "center" height= "80" style= "border-radius: 50%;">  kxr
 In charge of the client-sided and server-sided anti-cheat.
 
 Discord Username: kaxr
 
 #
 
-### <img src = "https://cdn.discordapp.com/avatars/705491419774845030/62eeb4d9bc5bf39385f255772696c758.webp" align = "center" height = "80" style = "border-radius: 50%;">  europa
+### <img src = "https://cdn.discordapp.com/avatars/705491419774845030/62eeb4d9bc5bf39385f255772696c758.webp?size=4096" align = "center" height = "80" style = "border-radius: 50%;">  europa
 In charge of the client-sided anti-cheat and handshake.
 
 Discord Username: __europa
