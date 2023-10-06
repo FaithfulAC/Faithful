@@ -75,7 +75,7 @@ Thank you to all of these wonderful people. Faithful wouldn't have been the same
 
 boles - (aka RxsidentAspect)
 ----
--> Founder / CEO @ Aspect Systems
+-> Founder / CEO @ [Aspect Systems](https://www.aspectsystems.dev/)
 
 ----
 
