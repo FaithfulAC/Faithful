@@ -87,6 +87,6 @@ daily
 
 XNX - (aka xoifail)
 ----
--> Anonymous & Valkyrie Anti-Cheat Developer
+-> Developer @ [Anonymous Systems](https://anonymous-systems.xyz/) and Valkyrie Anti-Cheat
 
 ----
