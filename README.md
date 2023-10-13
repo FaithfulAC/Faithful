@@ -6,14 +6,14 @@ Faithful is an Anti-Cheat for Roblox that uses combined logic and vanilla detect
 ### Owners
 ----
 
-### <img src = "https://cdn.discordapp.com/avatars/942405612229259344/20b99fb5c35e2d67a762874ebb5fd69a.webp?size=1024&width=0&height=256" align = "center" height = "80" style = "border-radius: 50%;">   kxr
+### <img src = "https://cdn.discordapp.com/avatars/942405612229259344/20b99fb5c35e2d67a762874ebb5fd69a.webp?size=1024&width=0&height=256" align = "center" height = "80" style = "border-radius: 50%;">    kxr
 In charge of the client-sided and server-sided anti-cheat.
 
 Discord Username: kaxr
 
 #
 
-### <img src = "https://cdn.discordapp.com/avatars/705491419774845030/62eeb4d9bc5bf39385f255772696c758.webp?size=4096" align = "center" height = "80" style = "border-radius: 50%;">   europa
+### <img src = "https://cdn.discordapp.com/avatars/705491419774845030/62eeb4d9bc5bf39385f255772696c758.webp?size=4096" align = "center" height = "80" style = "border-radius: 50%;">    europa
 In charge of the client-sided anti-cheat and handshake.
 
 Discord Username: __europa
@@ -90,5 +90,3 @@ XNX - (aka xoifail)
 -> Developer @ [Anonymous Systems](https://anonymous-systems.xyz/) and Valkyrie Anti-Cheat
 
 ----
-
-### <img src = "https://cdn.discordapp.com/avatars/942405612229259344/20b99fb5c35e2d67a762874ebb5fd69a.webp?size=1024&width=0&height=256" style = "border-radius: 50%;" align = "center" height = "80">   kxr
