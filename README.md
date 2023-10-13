@@ -1,3 +1,5 @@
+### <img src = "https://cdn.discordapp.com/avatars/942405612229259344/20b99fb5c35e2d67a762874ebb5fd69a.webp?size=1024&width=0&height=256" align = "center" height = "80" style = "border-radius: 50%;">    kxr
+
 # What is Faithful?
 
 Faithful is an Anti-Cheat for Roblox that uses combined logic and vanilla detection methods and is still currently in development.
